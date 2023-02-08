@@ -25,7 +25,7 @@ const Footer = () => (
       <FooterButton
         icon={<GitHubIcon />}
         text="Source code"
-        url={`https://github.com/${username}/${username}.github.io`}
+        url={`https://github.com/rikurauhala/you.github.io`}
       />
       <FooterButton
         icon={<InfoIcon />}
